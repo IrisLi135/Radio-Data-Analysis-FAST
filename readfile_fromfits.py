@@ -1,6 +1,9 @@
-#!/home/liyufeng/anaconda3/bin/python
+#! /bin/python
 #-*-coding:utf-8-*-
 #Yufeng Li@copyright
+
+#This .py file is generated to read important information 
+#from '.fits' file recorded by FAST telescope. 
 
 #usage example: 
 #python readfile_fromfits.py *.fits
